@@ -1,0 +1,1 @@
+set -Ux LS_COLORS '*file=37;40:README.md=37:40'
